@@ -1,16 +1,19 @@
 ## Hi there 👋
+      
+# Hi there, I'm Atharva 👋
 
-<!--
-**atharva205/atharva205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) | 📍 India  
+💻 I’m passionate about building apps, solving DSA problems, and exploring Machine Learning.
 
-Here are some ideas to get you started:
+### 🚀 Currently Working On:
+- 📱 **Educational App** for CBSE Class 10 students using Flutter
+- 🦷 **Clinic Management System** with treatment image tracking (Flask)
+- 🤖 Learning Machine Learning via DataCamp & personal projects
+- 📈 **DSA Tracker** (Striver Sheet) in Notion + GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+`Python` `C` `Flutter` `PyTORCH` `SQLite` `Flask` `Git` `HTML` `CSS` `JavaScript`  
+ML Libraries: `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+### 📫 Connect with me:
+
