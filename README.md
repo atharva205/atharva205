@@ -15,5 +15,5 @@
 `Python` `C` `Flutter` `PyTORCH` `SQLite` `Flask` `Git` `HTML` `CSS` `JavaScript`  
 ML Libraries: `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
-### 📫 Connect with me:
+### 📫 Connect with me: atharva05p@gmail.com
 
