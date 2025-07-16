@@ -12,7 +12,7 @@
 - 📈 **DSA Tracker** (Striver Sheet) in Notion + GitHub
 
 ### 🛠️ Tech Stack:
-`Python` `C` `Flutter` `PyTORCH` `SQLite` `Flask` `Git` `HTML` `CSS` `JavaScript`  
+`Python` `C` `Flutter` `PyTORCH` `SQLite` `Flask` `Git` `HTML` `CSS` `C++`
 ML Libraries: `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
 ### 📫 Connect with me: atharva05p@gmail.com
