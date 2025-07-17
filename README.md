@@ -2,7 +2,7 @@
       
 # Hi there, I'm Atharva 👋
 
-🎓 B.Tech CSE (Data Science) | 📍 India  
+🎓 B.Tech CSE (Data Science) | 📍 Nagpur,India  
 💻 I’m passionate about building apps, solving DSA problems, and exploring Machine Learning.
 
 ### 🚀 Currently Working On:
@@ -12,7 +12,7 @@
 - 📈 **DSA Tracker** (Striver Sheet) in Notion + GitHub
 
 ### 🛠️ Tech Stack:
-`Python` `C` `Flutter` `PyTORCH` `SQLite` `Flask` `Git` `HTML` `CSS` `C++`
+`Python` `C` `Flutter` `PyTORCH` `MySQL` `SQLite` `Flask` `Git` `HTML` `CSS` `C++`
 ML Libraries: `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
 ### 📫 Connect with me: atharva05p@gmail.com
